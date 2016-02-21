@@ -1,0 +1,2 @@
+# racelogger
+Competition Timing System.
